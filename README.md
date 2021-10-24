@@ -5,4 +5,11 @@
 Acrolyte/Acrolyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acrolyte&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p  align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=acrolyte&show_icons=true&theme=github_dark&custom_title=Arpit%27s%20Github%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=acrolyte&theme=holi-theme&background=0D1117" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=acrolyte&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="acrolyte" />
+
+</p>
+
+[![Acrolyte's github activity graph](https://activity-graph.herokuapp.com/graph?username=Acrolyte&line=4c8eda&color=4c8eda&custom_title=Arpit%27s%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
