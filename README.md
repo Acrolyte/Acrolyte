@@ -1,5 +1,4 @@
 - Hi, I’m Arpit Chaurasia
-- I’m interested in Android & AR/VR domains.
 
 <!---
 Acrolyte/Acrolyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +11,10 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-[![Acrolyte's github activity graph](https://activity-graph.herokuapp.com/graph?username=Acrolyte&line=4c8eda&color=4c8eda&custom_title=Arpit%27s%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Acrolyte's github activity graph](https://activity-graph.herokuapp.com/graph?username=Acrolyte&line=4c8eda&color=4c8eda&area=true&area_color=2568b4&custom_title=Arpit%27s%20Activity%20Graph&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/acrolyte/count.svg" />
+ </p>
+ 
